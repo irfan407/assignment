@@ -25,4 +25,4 @@ class B{
         ob.setName(null);
         System.out.println("name is "+ ob.getName());
     }
-}
+}//update
